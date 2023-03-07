@@ -3,3 +3,10 @@
 body {
     font-family: "Open Sans", sans-serif;
 }
+
+.main {
+    align-content: center;
+    margin: 5em auto;
+    padding: 2em;
+    width: 600px;
+}
