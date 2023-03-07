@@ -1,9 +1,15 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 
-body {
-    font-family: "Open Sans", sans-serif;
+.main-container {
+    display: flex;
+    justify-content: center;
+    width: 600px;
 }
 
 main {
     text-align: center;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
 }
