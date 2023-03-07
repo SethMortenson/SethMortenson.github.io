@@ -1,8 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 
-.main-container {
+.main-outer {
     display: flex;
     justify-content: center;
+}
+
+.main-inner {
     width: 600px;
 }
 
