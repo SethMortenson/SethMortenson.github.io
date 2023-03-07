@@ -13,3 +13,7 @@ main {
 body {
     font-family: "Open Sans", sans-serif;
 }
+
+h1 {
+    font-weight: bold;
+}
